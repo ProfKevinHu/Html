@@ -1,2 +1,2 @@
-# Html
-My first project
+# Innovaite Hackathon
+CSS, HTML
